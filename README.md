@@ -1,5 +1,5 @@
 # Tutorial de configuração Ubuntu 20.04 em WSL 2
-[Clique aqui para seguir a playlist completa do tutorial no YouTube]()
+[Clique aqui para seguir a playlist completa do tutorial no YouTube](https://www.youtube.com/playlist?list=PL9KWM6rWIHQczy8YjQDDRbXTrzJT17fIO)
 
 ## 1- Configuração inicial WSL2
 [Seguir exatamente como esse tutorial](https://docs.microsoft.com/pt-br/windows/wsl/install-win10)
